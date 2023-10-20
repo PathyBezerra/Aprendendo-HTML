@@ -20,7 +20,6 @@ Investir em si mesmo é um ato de autodescoberta e crescimento.
 <p align="center">
   <img alt="Aprendendo HTML" src=".github/preview.jpg" width="100%">
 </p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-  -Figma
+- Figma
 
 ## 💻 Projeto
 
